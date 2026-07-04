@@ -1,0 +1,37 @@
+filename = '[1.20.1-Forge] Hybrid Aquatic 1.6.4.jar'
+name = 'Hybrid Aquatic'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.4-forge'
+
+[download]
+hash = '66943ef17684b356b6a0051b09e3d0b60b8faa5da4d8e6ee676a2e2432776a88ea28454473d6f428f03f6f2beedbf6925781d7a1f28daceeac7accfb43131512'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HH4FjUqN/versions/EEDxmjkY/%5B1.20.1-Forge%5D Hybrid Aquatic 1.6.4.jar'
+
+[update.modrinth]
+mod-id = 'HH4FjUqN'
+version = 'EEDxmjkY'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XaDC71GB'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ordsPcFz'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'iGEl6Crx'
+type = 'REQUIRED'
