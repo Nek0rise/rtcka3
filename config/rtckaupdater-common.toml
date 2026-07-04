@@ -1,0 +1,15 @@
+#GitHub repository URL that stores the modpack files, for example https://github.com/owner/repository
+repositoryUrl = "https://github.com/Nek0rise/rtcka3"
+#Git branch used as the storage branch
+branch = "main"
+#Path to the update manifest inside the repository
+manifestPath = "modpackver.json"
+#Fallback installed modpack version used before .rtckaupdater/state.json exists
+installedVersion = "1.0.0"
+#Connection timeout for GitHub requests
+#Range: 1 ~ 120
+connectTimeoutSeconds = 10
+#Request timeout for manifest and file downloads
+#Range: 5 ~ 600
+requestTimeoutSeconds = 60
+
