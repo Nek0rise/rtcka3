@@ -1,18 +1,23 @@
 {
   "schema": 3,
-  "version": "1.1.0",
-  "generatedAt": "2026-07-04T14:35:54.119595Z",
+  "version": "1.1.1",
+  "generatedAt": "2026-07-04T14:42:53.087763Z",
   "files": [
     {
-      "path": "mods/rtckaupdater-1.0-SNAPSHOT.jar",
-      "action": "update",
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "action": "add",
       "required": true,
-      "sha256": "fa057c61160548d28a2a68d834ea422dd9adfdce8cbe3887c5bda75f408b7601",
-      "size": 36027,
-      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/rtckaupdater-1.0-SNAPSHOT.jar"
+      "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
+      "size": 47428,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/appleskin-forge-mc1.20.1-2.5.1.jar"
     }
   ],
   "fileSnapshot": {
+    "mods/appleskin-forge-mc1.20.1-2.5.1.jar": {
+      "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
+      "size": 47428,
+      "required": true
+    },
     "mods/entityculling-forge-1.10.5-mc1.20.1.jar": {
       "sha256": "db0ee6aaf7e78d758885969e1d237e6efef07109195d4bb81fa06b304ddc12aa",
       "size": 1590221,
@@ -25,6 +30,7 @@
     }
   },
   "requiredPaths": [
+    "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
     "mods/entityculling-forge-1.10.5-mc1.20.1.jar",
     "mods/rtckaupdater-1.0-SNAPSHOT.jar"
   ]
