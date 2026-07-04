@@ -1,0 +1,30 @@
+{
+  "schema": 3,
+  "version": "1.0.0",
+  "generatedAt": "2026-07-04T14:13:48.572450Z",
+  "files": [
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "action": "delete",
+      "required": true
+    },
+    {
+      "path": "mods/rtckaupdater-1.0-SNAPSHOT.jar",
+      "action": "update",
+      "required": true,
+      "sha256": "6807efcc29db55093a0df6c3e0859297c641be3f54993d18290186ed1689ea71",
+      "size": 33298,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/rtckaupdater-1.0-SNAPSHOT.jar"
+    }
+  ],
+  "fileSnapshot": {
+    "mods/rtckaupdater-1.0-SNAPSHOT.jar": {
+      "sha256": "6807efcc29db55093a0df6c3e0859297c641be3f54993d18290186ed1689ea71",
+      "size": 33298,
+      "required": true
+    }
+  },
+  "requiredPaths": [
+    "mods/rtckaupdater-1.0-SNAPSHOT.jar"
+  ]
+}
