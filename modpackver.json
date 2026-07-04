@@ -1,0 +1,530 @@
+{
+  "schema": 2,
+  "version": "1.0.0",
+  "generatedAt": "2026-07-04T13:48:43.386241Z",
+  "files": [
+    {
+      "path": "config/fml.toml",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e",
+      "size": 885,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/config/fml.toml"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "ee43331c0db25f2eccfaea4cccc319b3d00fa157326e210a5e6253296173c2eb",
+      "size": 831,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/config/forge-client.toml"
+    },
+    {
+      "path": "config/rtckaupdater-common.toml",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "5197d879fc31bb96299d9e15c3d22ba72e83587f1b6b2bf3936eb1a98f6992d1",
+      "size": 601,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/config/rtckaupdater-common.toml"
+    },
+    {
+      "path": "icon.png",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd",
+      "size": 2441,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/icon.png"
+    },
+    {
+      "path": "logs/debug.log",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "472ce13dcf8620aae807047b4f1afe553add268787c87471906cc8dd37fe6708",
+      "size": 1895476,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/logs/debug.log"
+    },
+    {
+      "path": "logs/latest.log",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "044be2277d065387f81cf0674f16d15d54a9a9ef95f154576ca3e23470432058",
+      "size": 21158,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/logs/latest.log"
+    },
+    {
+      "path": "logs/telemetry/20260704-1.json",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "1c803553b6b072dc9779730fc1b2b4f57ffbc565c31644640a5b0a433e732f5a",
+      "size": 866,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/logs/telemetry/20260704-1.json"
+    },
+    {
+      "path": "mods/rtckaupdater-1.0-SNAPSHOT.jar",
+      "action": "add",
+      "required": true,
+      "optional": false,
+      "sha256": "2a2164151ff8b59ef1d580918fbaa3dbe9cac543cba37e0fc5917ae053fec4e1",
+      "size": 31040,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/rtckaupdater-1.0-SNAPSHOT.jar"
+    },
+    {
+      "path": "options.txt",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "9081591cbc87001f8b31fc2caddd8b79e0ec316e357abb6936bbcf33cb9140cb",
+      "size": 3492,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/options.txt"
+    },
+    {
+      "path": "saves/New World/DIM-1/data/capabilities.dat",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92",
+      "size": 48,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/DIM-1/data/capabilities.dat"
+    },
+    {
+      "path": "saves/New World/DIM-1/data/raids.dat",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "d7b1e3185efe58ee300823cfbb72d1ab78209c7cd13288f6e5a877a991346f20",
+      "size": 89,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/DIM-1/data/raids.dat"
+    },
+    {
+      "path": "saves/New World/DIM1/data/capabilities.dat",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92",
+      "size": 48,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/DIM1/data/capabilities.dat"
+    },
+    {
+      "path": "saves/New World/DIM1/data/raids_end.dat",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "d7b1e3185efe58ee300823cfbb72d1ab78209c7cd13288f6e5a877a991346f20",
+      "size": 89,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/DIM1/data/raids_end.dat"
+    },
+    {
+      "path": "saves/New World/advancements/1be1bdaa-41bf-49a2-8c50-a24d64d547ac.json",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "b4c77f3d2187eed0031b89fe0af8f55b55be10c999b8369555fbd30b13e00106",
+      "size": 325,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/advancements/1be1bdaa-41bf-49a2-8c50-a24d64d547ac.json"
+    },
+    {
+      "path": "saves/New World/data/capabilities.dat",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92",
+      "size": 48,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/data/capabilities.dat"
+    },
+    {
+      "path": "saves/New World/data/raids.dat",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "d7b1e3185efe58ee300823cfbb72d1ab78209c7cd13288f6e5a877a991346f20",
+      "size": 89,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/data/raids.dat"
+    },
+    {
+      "path": "saves/New World/entities/r.-1.-1.mca",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "3ac1e5dcbd53ba36ce6a2a7e1fe6f25906a03a6d5209fb0df7f1f584325226c3",
+      "size": 53248,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/entities/r.-1.-1.mca"
+    },
+    {
+      "path": "saves/New World/entities/r.-1.0.mca",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "1f3a167834947c9670dc20e3b493e4660a6d49360218e6929431600f3ca54a82",
+      "size": 36864,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/entities/r.-1.0.mca"
+    },
+    {
+      "path": "saves/New World/entities/r.0.-1.mca",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "4aa892c83cd42cc2137df416aaf733209d3ecad77de049af23f6fdca3b0c32d1",
+      "size": 94208,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/entities/r.0.-1.mca"
+    },
+    {
+      "path": "saves/New World/entities/r.0.0.mca",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "1193750b9528a76f12da2415fa83e569ac0c3abdaa557ce391791ec0f77db1a7",
+      "size": 77824,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/entities/r.0.0.mca"
+    },
+    {
+      "path": "saves/New World/icon.png",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "2387f03c8949a7a50759806817e2a70f956c30b66a7689f19024cb347074bff9",
+      "size": 6422,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/icon.png"
+    },
+    {
+      "path": "saves/New World/level.dat",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "c1904c14e6651d476476f06f7b89fc5f9049e43c99a16e5083edf7a80ef93759",
+      "size": 37721,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/level.dat"
+    },
+    {
+      "path": "saves/New World/level.dat_old",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "f14958a551399dc22a5b3c30af7075134bfdca54bbb94f4cca4dffb7921d3683",
+      "size": 37722,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/level.dat_old"
+    },
+    {
+      "path": "saves/New World/playerdata/1be1bdaa-41bf-49a2-8c50-a24d64d547ac.dat",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "8e29bd5aa6899e772e72e3d97afb866645f1f68e521b6adf8ca8d9ce7a38811d",
+      "size": 835,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/playerdata/1be1bdaa-41bf-49a2-8c50-a24d64d547ac.dat"
+    },
+    {
+      "path": "saves/New World/playerdata/1be1bdaa-41bf-49a2-8c50-a24d64d547ac.dat_old",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "631d059cbda767fa273e837c8a2673c851b7bd750e8835f3283fc9bdd0039a0e",
+      "size": 836,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/playerdata/1be1bdaa-41bf-49a2-8c50-a24d64d547ac.dat_old"
+    },
+    {
+      "path": "saves/New World/poi/r.-1.-1.mca",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/poi/r.-1.-1.mca"
+    },
+    {
+      "path": "saves/New World/poi/r.0.-1.mca",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "ab02d56a2a8e8145dc74e4052dff7092fb74b0b5552fcff5f97b96a9d0662fb0",
+      "size": 73728,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/poi/r.0.-1.mca"
+    },
+    {
+      "path": "saves/New World/poi/r.0.0.mca",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "a00026f2e8edf510088ba059aa7c8f477efa81f5c8bb8f526becf7f732ec6021",
+      "size": 57344,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/poi/r.0.0.mca"
+    },
+    {
+      "path": "saves/New World/region/r.-1.-1.mca",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "9e37b1cce729bd677a367c0a6aba0de515784638caa8d55e178fe608e268411d",
+      "size": 2777088,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/region/r.-1.-1.mca"
+    },
+    {
+      "path": "saves/New World/region/r.-1.0.mca",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "d0607e9b61248dcb86c2f583712e10774a4ae37a84f6eff97084880a3a039762",
+      "size": 2670592,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/region/r.-1.0.mca"
+    },
+    {
+      "path": "saves/New World/region/r.0.-1.mca",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "f3905d8b31e9e58a63726d040f318711ce6c2c88fcf3b905d8126517a360827f",
+      "size": 2781184,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/region/r.0.-1.mca"
+    },
+    {
+      "path": "saves/New World/region/r.0.0.mca",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "b1e4083d9bc7aacd510b43562f0547339a4e2f34a620b8d1803df45815348c06",
+      "size": 2674688,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/region/r.0.0.mca"
+    },
+    {
+      "path": "saves/New World/serverconfig/forge-server.toml",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "5e6e52616da1b55ebeebc3e6e7faaf5936584b23b26a0517d8ce398a98a95764",
+      "size": 1511,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/serverconfig/forge-server.toml"
+    },
+    {
+      "path": "saves/New World/session.lock",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc",
+      "size": 3,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/session.lock"
+    },
+    {
+      "path": "saves/New World/stats/1be1bdaa-41bf-49a2-8c50-a24d64d547ac.json",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "de21ab832a72350575770126243286b28fc7c1194fc3e883a77e87ecd9d62d4b",
+      "size": 306,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/saves/New%20World/stats/1be1bdaa-41bf-49a2-8c50-a24d64d547ac.json"
+    },
+    {
+      "path": "usercache.json",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "5d29c12767a0442024acaedf1e9eaf5234c71ddd5844d226f36e82f43c451731",
+      "size": 107,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/usercache.json"
+    },
+    {
+      "path": "usernamecache.json",
+      "action": "add",
+      "required": false,
+      "optional": true,
+      "sha256": "795b28faf305c2dfb40998b10ac0053a9b8da35f4ac2a0e04039db82edefd8ce",
+      "size": 56,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/usernamecache.json"
+    }
+  ],
+  "fileSnapshot": {
+    "config/fml.toml": {
+      "sha256": "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e",
+      "size": 885,
+      "required": false
+    },
+    "config/forge-client.toml": {
+      "sha256": "ee43331c0db25f2eccfaea4cccc319b3d00fa157326e210a5e6253296173c2eb",
+      "size": 831,
+      "required": false
+    },
+    "config/rtckaupdater-common.toml": {
+      "sha256": "5197d879fc31bb96299d9e15c3d22ba72e83587f1b6b2bf3936eb1a98f6992d1",
+      "size": 601,
+      "required": false
+    },
+    "icon.png": {
+      "sha256": "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd",
+      "size": 2441,
+      "required": false
+    },
+    "logs/debug.log": {
+      "sha256": "472ce13dcf8620aae807047b4f1afe553add268787c87471906cc8dd37fe6708",
+      "size": 1895476,
+      "required": false
+    },
+    "logs/latest.log": {
+      "sha256": "044be2277d065387f81cf0674f16d15d54a9a9ef95f154576ca3e23470432058",
+      "size": 21158,
+      "required": false
+    },
+    "logs/telemetry/20260704-1.json": {
+      "sha256": "1c803553b6b072dc9779730fc1b2b4f57ffbc565c31644640a5b0a433e732f5a",
+      "size": 866,
+      "required": false
+    },
+    "mods/rtckaupdater-1.0-SNAPSHOT.jar": {
+      "sha256": "2a2164151ff8b59ef1d580918fbaa3dbe9cac543cba37e0fc5917ae053fec4e1",
+      "size": 31040,
+      "required": true
+    },
+    "options.txt": {
+      "sha256": "9081591cbc87001f8b31fc2caddd8b79e0ec316e357abb6936bbcf33cb9140cb",
+      "size": 3492,
+      "required": false
+    },
+    "saves/New World/DIM-1/data/capabilities.dat": {
+      "sha256": "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92",
+      "size": 48,
+      "required": false
+    },
+    "saves/New World/DIM-1/data/raids.dat": {
+      "sha256": "d7b1e3185efe58ee300823cfbb72d1ab78209c7cd13288f6e5a877a991346f20",
+      "size": 89,
+      "required": false
+    },
+    "saves/New World/DIM1/data/capabilities.dat": {
+      "sha256": "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92",
+      "size": 48,
+      "required": false
+    },
+    "saves/New World/DIM1/data/raids_end.dat": {
+      "sha256": "d7b1e3185efe58ee300823cfbb72d1ab78209c7cd13288f6e5a877a991346f20",
+      "size": 89,
+      "required": false
+    },
+    "saves/New World/advancements/1be1bdaa-41bf-49a2-8c50-a24d64d547ac.json": {
+      "sha256": "b4c77f3d2187eed0031b89fe0af8f55b55be10c999b8369555fbd30b13e00106",
+      "size": 325,
+      "required": false
+    },
+    "saves/New World/data/capabilities.dat": {
+      "sha256": "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92",
+      "size": 48,
+      "required": false
+    },
+    "saves/New World/data/raids.dat": {
+      "sha256": "d7b1e3185efe58ee300823cfbb72d1ab78209c7cd13288f6e5a877a991346f20",
+      "size": 89,
+      "required": false
+    },
+    "saves/New World/entities/r.-1.-1.mca": {
+      "sha256": "3ac1e5dcbd53ba36ce6a2a7e1fe6f25906a03a6d5209fb0df7f1f584325226c3",
+      "size": 53248,
+      "required": false
+    },
+    "saves/New World/entities/r.-1.0.mca": {
+      "sha256": "1f3a167834947c9670dc20e3b493e4660a6d49360218e6929431600f3ca54a82",
+      "size": 36864,
+      "required": false
+    },
+    "saves/New World/entities/r.0.-1.mca": {
+      "sha256": "4aa892c83cd42cc2137df416aaf733209d3ecad77de049af23f6fdca3b0c32d1",
+      "size": 94208,
+      "required": false
+    },
+    "saves/New World/entities/r.0.0.mca": {
+      "sha256": "1193750b9528a76f12da2415fa83e569ac0c3abdaa557ce391791ec0f77db1a7",
+      "size": 77824,
+      "required": false
+    },
+    "saves/New World/icon.png": {
+      "sha256": "2387f03c8949a7a50759806817e2a70f956c30b66a7689f19024cb347074bff9",
+      "size": 6422,
+      "required": false
+    },
+    "saves/New World/level.dat": {
+      "sha256": "c1904c14e6651d476476f06f7b89fc5f9049e43c99a16e5083edf7a80ef93759",
+      "size": 37721,
+      "required": false
+    },
+    "saves/New World/level.dat_old": {
+      "sha256": "f14958a551399dc22a5b3c30af7075134bfdca54bbb94f4cca4dffb7921d3683",
+      "size": 37722,
+      "required": false
+    },
+    "saves/New World/playerdata/1be1bdaa-41bf-49a2-8c50-a24d64d547ac.dat": {
+      "sha256": "8e29bd5aa6899e772e72e3d97afb866645f1f68e521b6adf8ca8d9ce7a38811d",
+      "size": 835,
+      "required": false
+    },
+    "saves/New World/playerdata/1be1bdaa-41bf-49a2-8c50-a24d64d547ac.dat_old": {
+      "sha256": "631d059cbda767fa273e837c8a2673c851b7bd750e8835f3283fc9bdd0039a0e",
+      "size": 836,
+      "required": false
+    },
+    "saves/New World/poi/r.-1.-1.mca": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "required": false
+    },
+    "saves/New World/poi/r.0.-1.mca": {
+      "sha256": "ab02d56a2a8e8145dc74e4052dff7092fb74b0b5552fcff5f97b96a9d0662fb0",
+      "size": 73728,
+      "required": false
+    },
+    "saves/New World/poi/r.0.0.mca": {
+      "sha256": "a00026f2e8edf510088ba059aa7c8f477efa81f5c8bb8f526becf7f732ec6021",
+      "size": 57344,
+      "required": false
+    },
+    "saves/New World/region/r.-1.-1.mca": {
+      "sha256": "9e37b1cce729bd677a367c0a6aba0de515784638caa8d55e178fe608e268411d",
+      "size": 2777088,
+      "required": false
+    },
+    "saves/New World/region/r.-1.0.mca": {
+      "sha256": "d0607e9b61248dcb86c2f583712e10774a4ae37a84f6eff97084880a3a039762",
+      "size": 2670592,
+      "required": false
+    },
+    "saves/New World/region/r.0.-1.mca": {
+      "sha256": "f3905d8b31e9e58a63726d040f318711ce6c2c88fcf3b905d8126517a360827f",
+      "size": 2781184,
+      "required": false
+    },
+    "saves/New World/region/r.0.0.mca": {
+      "sha256": "b1e4083d9bc7aacd510b43562f0547339a4e2f34a620b8d1803df45815348c06",
+      "size": 2674688,
+      "required": false
+    },
+    "saves/New World/serverconfig/forge-server.toml": {
+      "sha256": "5e6e52616da1b55ebeebc3e6e7faaf5936584b23b26a0517d8ce398a98a95764",
+      "size": 1511,
+      "required": false
+    },
+    "saves/New World/session.lock": {
+      "sha256": "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc",
+      "size": 3,
+      "required": false
+    },
+    "saves/New World/stats/1be1bdaa-41bf-49a2-8c50-a24d64d547ac.json": {
+      "sha256": "de21ab832a72350575770126243286b28fc7c1194fc3e883a77e87ecd9d62d4b",
+      "size": 306,
+      "required": false
+    },
+    "usercache.json": {
+      "sha256": "5d29c12767a0442024acaedf1e9eaf5234c71ddd5844d226f36e82f43c451731",
+      "size": 107,
+      "required": false
+    },
+    "usernamecache.json": {
+      "sha256": "795b28faf305c2dfb40998b10ac0053a9b8da35f4ac2a0e04039db82edefd8ce",
+      "size": 56,
+      "required": false
+    }
+  },
+  "requiredPaths": [
+    "mods/rtckaupdater-1.0-SNAPSHOT.jar"
+  ]
+}
