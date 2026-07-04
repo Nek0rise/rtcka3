@@ -1,0 +1,25 @@
+{
+  "schema": 3,
+  "version": "3.0.0",
+  "generatedAt": "2026-07-04T18:27:23.957891Z",
+  "files": [
+    {
+      "path": "config/rtckaupdater-common.toml",
+      "action": "add",
+      "required": true,
+      "sha256": "c3fd28baf361777d8d0694f9ab516a017d7193bbfb1c05fe838de36d1b0542af",
+      "size": 592,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/config/rtckaupdater-common.toml"
+    }
+  ],
+  "fileSnapshot": {
+    "config/rtckaupdater-common.toml": {
+      "sha256": "c3fd28baf361777d8d0694f9ab516a017d7193bbfb1c05fe838de36d1b0542af",
+      "size": 592,
+      "required": true
+    }
+  },
+  "requiredPaths": [
+    "config/rtckaupdater-common.toml"
+  ]
+}
