@@ -1,15 +1,15 @@
 {
   "schema": 3,
-  "version": "1.1.1",
-  "generatedAt": "2026-07-04T14:42:53.087763Z",
+  "version": "1.1.2",
+  "generatedAt": "2026-07-04T14:55:53.569572Z",
   "files": [
     {
-      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
-      "action": "add",
+      "path": "mods/rtckaupdater-1.0-SNAPSHOT.jar",
+      "action": "update",
       "required": true,
-      "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
-      "size": 47428,
-      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/appleskin-forge-mc1.20.1-2.5.1.jar"
+      "sha256": "25cce6d5a638e9fab84e3152ebc71793ee5374e847ac3e907d6d1fe188a3bb23",
+      "size": 38358,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/rtckaupdater-1.0-SNAPSHOT.jar"
     }
   ],
   "fileSnapshot": {
@@ -24,8 +24,8 @@
       "required": true
     },
     "mods/rtckaupdater-1.0-SNAPSHOT.jar": {
-      "sha256": "fa057c61160548d28a2a68d834ea422dd9adfdce8cbe3887c5bda75f408b7601",
-      "size": 36027,
+      "sha256": "25cce6d5a638e9fab84e3152ebc71793ee5374e847ac3e907d6d1fe188a3bb23",
+      "size": 38358,
       "required": true
     }
   },
