@@ -1,15 +1,28 @@
 {
   "schema": 3,
-  "version": "3.0.1",
-  "generatedAt": "2026-07-06T19:13:35.605747Z",
+  "version": "3.0.2",
+  "generatedAt": "2026-07-08T15:23:54.407509Z",
   "files": [
     {
+      "path": "config/rtckaupdater-common.toml",
+      "action": "update",
+      "required": true,
+      "sha256": "c3fd28baf361777d8d0694f9ab516a017d7193bbfb1c05fe838de36d1b0542af",
+      "size": 592,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/config/rtckaupdater-common.toml"
+    },
+    {
       "path": "mods/BeansBackpacks-forge-1.20.1-2.0.2.jar",
+      "action": "delete",
+      "required": true
+    },
+    {
+      "path": "mods/Bunker-1.20.1-1.0.jar",
       "action": "add",
       "required": true,
-      "sha256": "c6e43e5660a1f321c27bbd85ab2102f93603fb252dfbcc1f754f404e0491d549",
-      "size": 1186920,
-      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/BeansBackpacks-forge-1.20.1-2.0.2.jar"
+      "sha256": "9ec9397dbb522bc0a93159481fbc03acba5a5838c7d74b8810d36fc247da1e21",
+      "size": 581038,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/Bunker-1.20.1-1.0.jar"
     },
     {
       "path": "mods/CameraOverhaul-v2.1.1-forge+mc[1.20-1.20.5].jar",
@@ -20,9 +33,28 @@
       "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/CameraOverhaul-v2.1.1-forge%2Bmc%5B1.20-1.20.5%5D.jar"
     },
     {
-      "path": "mods/MekanismTools-1.20.1-10.4.16.80.jar",
-      "action": "delete",
-      "required": true
+      "path": "mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "cfea462b5ab4f15b38da6003f7d151bdbb68fa5af30084ae81b8ac0970d7aaae",
+      "size": 276231,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/JustEnoughResources-1.20.1-1.4.0.247.jar"
+    },
+    {
+      "path": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
+      "size": 424035,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar"
+    },
+    {
+      "path": "mods/ScalingMobs-2.4.4.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "6c9f1417950f548bf4d1aa53df316f75a1fd26d9fd6f6296aa3df330859575b8",
+      "size": 58254,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/ScalingMobs-2.4.4.jar"
     },
     {
       "path": "mods/Stellar View-1.20.1-0.5.2-Forge.jar",
@@ -47,11 +79,6 @@
       "sha256": "3def0d66debef6185df82f6b777ec382a59dc66da47c8f081e69cc059da1d98d",
       "size": 200341,
       "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/YungsExtras-1.20-Forge-4.0.3.jar"
-    },
-    {
-      "path": "mods/aaa_particles-1.20.1-1.4.11-forge.jar",
-      "action": "delete",
-      "required": true
     },
     {
       "path": "mods/accents-forge-1.20.1-1.1.0.jar",
@@ -110,12 +137,52 @@
       "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/elixirum-forge-1.20.1-0.12.0.jar"
     },
     {
+      "path": "mods/emi-1.1.24+1.20.1+forge.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "92784dcf5222d72983a420c90f2e9240468ee0fece96f757c82d7884b6cbdb72",
+      "size": 1121750,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/emi-1.1.24%2B1.20.1%2Bforge.jar"
+    },
+    {
+      "path": "mods/emi_enchanting-0.1.2+1.20.1+forge.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "adcb1007f165e2c8fd734fe845bdd45026e936c7dde6c6dfed3a21b2787368aa",
+      "size": 15470,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/emi_enchanting-0.1.2%2B1.20.1%2Bforge.jar"
+    },
+    {
+      "path": "mods/emi_loot-0.7.9+1.20.1+forge.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "c9910f6cd256a68c7eabec8ba24c39b71595856c2e80e44001484b0702563034",
+      "size": 441180,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/emi_loot-0.7.9%2B1.20.1%2Bforge.jar"
+    },
+    {
       "path": "mods/etched-3.0.4.jar",
       "action": "add",
       "required": true,
       "sha256": "051828ac6264c4a217a86d0373b3b4a6fb3f182fbb85f650c831641fcab6069c",
       "size": 611145,
       "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/etched-3.0.4.jar"
+    },
+    {
+      "path": "mods/ethecore-0.1.0.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "5ec4107b0fc66b3de24e61b7fe20aebebce870340aa42144b2a15360c8058b16",
+      "size": 171206,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/ethecore-0.1.0.jar"
+    },
+    {
+      "path": "mods/etheria-0.4.1.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "d5a8d883f1adaacb39d1b1330f2f4870ae834c041287e9714ae66c635a34eb2f",
+      "size": 39839824,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/etheria-0.4.1.jar"
     },
     {
       "path": "mods/fragmentum-forge-1.20.1-1.3.0.jar",
@@ -142,6 +209,22 @@
       "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/immersive_paintings-0.6.13%2B1.20.1-forge.jar"
     },
     {
+      "path": "mods/jeed-1.20-2.2.5.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "841dee59c98c1b490073866a47dbd77f13125d425a8c6a8e850cf8c43e699a83",
+      "size": 159288,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/jeed-1.20-2.2.5.jar"
+    },
+    {
+      "path": "mods/modular_backpacks-0.1.9.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "20cae6427fcbd6d59a14c4a1b470f9fd2d9e320d5aec942210bb9c7627656ed0",
+      "size": 993687,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/modular_backpacks-0.1.9.jar"
+    },
+    {
       "path": "mods/obscure_tooltips-forge-1.20.1-3.10.0.jar",
       "action": "add",
       "required": true,
@@ -150,16 +233,27 @@
       "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/obscure_tooltips-forge-1.20.1-3.10.0.jar"
     },
     {
-      "path": "mods/rtcka-1.0.0-forge-1.20.1.jar",
-      "action": "delete",
-      "required": true
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+      "size": 181437,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
+    },
+    {
+      "path": "mods/roaring-beta-0.3.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "894e6dab992f104451da7ddcae7bbf67c5ed7e3800a37379e8f1ebe5c290a3c8",
+      "size": 5524169,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/roaring-beta-0.3.jar"
     },
     {
       "path": "mods/rtckaupdater-1.0-SNAPSHOT.jar",
-      "action": "update",
+      "action": "add",
       "required": true,
-      "sha256": "c24d40e193f9aa1e9dce27c64500e76b52e50e662ca1c337515474ca70bef531",
-      "size": 44302,
+      "sha256": "328923de102fe2eff5413daae3dc28d06f2903c5dde93d1edc65496846f1416b",
+      "size": 44132,
       "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/rtckaupdater-1.0-SNAPSHOT.jar"
     },
     {
@@ -169,6 +263,22 @@
       "sha256": "ae78b9547aece222fdd907f68b2cd9189396e54645ed97cd44b2d869174a9627",
       "size": 662619,
       "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/scythe1.1-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/visual_keybinder-1.20.1 - 0.1.12.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "9dadb23df8b1b232499565bc486220af6f81f62d2bfe6fe6e9deeb9502df0847",
+      "size": 258438,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/visual_keybinder-1.20.1%20-%200.1.12.jar"
+    },
+    {
+      "path": "mods/weaversparadise-1.5.2a.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "751d2d43f92af4ce7c1f276c77f6e548bd918c820df70f5d1329aa02f2a34c45",
+      "size": 1705824,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/weaversparadise-1.5.2a.jar"
     },
     {
       "path": "mods/youkaisfeasts-0.5.0.jar",
@@ -185,14 +295,29 @@
       "size": 592,
       "required": true
     },
-    "mods/BeansBackpacks-forge-1.20.1-2.0.2.jar": {
-      "sha256": "c6e43e5660a1f321c27bbd85ab2102f93603fb252dfbcc1f754f404e0491d549",
-      "size": 1186920,
+    "mods/Bunker-1.20.1-1.0.jar": {
+      "sha256": "9ec9397dbb522bc0a93159481fbc03acba5a5838c7d74b8810d36fc247da1e21",
+      "size": 581038,
       "required": true
     },
     "mods/CameraOverhaul-v2.1.1-forge+mc[1.20-1.20.5].jar": {
       "sha256": "af4f381a19c7ce39e019025955c2a9767b8b5c0d8b826d2975e60d9da466e492",
       "size": 139793,
+      "required": true
+    },
+    "mods/JustEnoughResources-1.20.1-1.4.0.247.jar": {
+      "sha256": "cfea462b5ab4f15b38da6003f7d151bdbb68fa5af30084ae81b8ac0970d7aaae",
+      "size": 276231,
+      "required": true
+    },
+    "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar": {
+      "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
+      "size": 424035,
+      "required": true
+    },
+    "mods/ScalingMobs-2.4.4.jar": {
+      "sha256": "6c9f1417950f548bf4d1aa53df316f75a1fd26d9fd6f6296aa3df330859575b8",
+      "size": 58254,
       "required": true
     },
     "mods/Stellar View-1.20.1-0.5.2-Forge.jar": {
@@ -245,9 +370,34 @@
       "size": 14217056,
       "required": true
     },
+    "mods/emi-1.1.24+1.20.1+forge.jar": {
+      "sha256": "92784dcf5222d72983a420c90f2e9240468ee0fece96f757c82d7884b6cbdb72",
+      "size": 1121750,
+      "required": true
+    },
+    "mods/emi_enchanting-0.1.2+1.20.1+forge.jar": {
+      "sha256": "adcb1007f165e2c8fd734fe845bdd45026e936c7dde6c6dfed3a21b2787368aa",
+      "size": 15470,
+      "required": true
+    },
+    "mods/emi_loot-0.7.9+1.20.1+forge.jar": {
+      "sha256": "c9910f6cd256a68c7eabec8ba24c39b71595856c2e80e44001484b0702563034",
+      "size": 441180,
+      "required": true
+    },
     "mods/etched-3.0.4.jar": {
       "sha256": "051828ac6264c4a217a86d0373b3b4a6fb3f182fbb85f650c831641fcab6069c",
       "size": 611145,
+      "required": true
+    },
+    "mods/ethecore-0.1.0.jar": {
+      "sha256": "5ec4107b0fc66b3de24e61b7fe20aebebce870340aa42144b2a15360c8058b16",
+      "size": 171206,
+      "required": true
+    },
+    "mods/etheria-0.4.1.jar": {
+      "sha256": "d5a8d883f1adaacb39d1b1330f2f4870ae834c041287e9714ae66c635a34eb2f",
+      "size": 39839824,
       "required": true
     },
     "mods/fragmentum-forge-1.20.1-1.3.0.jar": {
@@ -265,19 +415,49 @@
       "size": 4856103,
       "required": true
     },
+    "mods/jeed-1.20-2.2.5.jar": {
+      "sha256": "841dee59c98c1b490073866a47dbd77f13125d425a8c6a8e850cf8c43e699a83",
+      "size": 159288,
+      "required": true
+    },
+    "mods/modular_backpacks-0.1.9.jar": {
+      "sha256": "20cae6427fcbd6d59a14c4a1b470f9fd2d9e320d5aec942210bb9c7627656ed0",
+      "size": 993687,
+      "required": true
+    },
     "mods/obscure_tooltips-forge-1.20.1-3.10.0.jar": {
       "sha256": "10a5dffbcf728f922d64169821b02fd2218abd16272f4fa9f4ca740151fce47f",
       "size": 1137730,
       "required": true
     },
+    "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar": {
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+      "size": 181437,
+      "required": true
+    },
+    "mods/roaring-beta-0.3.jar": {
+      "sha256": "894e6dab992f104451da7ddcae7bbf67c5ed7e3800a37379e8f1ebe5c290a3c8",
+      "size": 5524169,
+      "required": true
+    },
     "mods/rtckaupdater-1.0-SNAPSHOT.jar": {
-      "sha256": "c24d40e193f9aa1e9dce27c64500e76b52e50e662ca1c337515474ca70bef531",
-      "size": 44302,
+      "sha256": "328923de102fe2eff5413daae3dc28d06f2903c5dde93d1edc65496846f1416b",
+      "size": 44132,
       "required": true
     },
     "mods/scythe1.1-forge-1.20.1.jar": {
       "sha256": "ae78b9547aece222fdd907f68b2cd9189396e54645ed97cd44b2d869174a9627",
       "size": 662619,
+      "required": true
+    },
+    "mods/visual_keybinder-1.20.1 - 0.1.12.jar": {
+      "sha256": "9dadb23df8b1b232499565bc486220af6f81f62d2bfe6fe6e9deeb9502df0847",
+      "size": 258438,
+      "required": true
+    },
+    "mods/weaversparadise-1.5.2a.jar": {
+      "sha256": "751d2d43f92af4ce7c1f276c77f6e548bd918c820df70f5d1329aa02f2a34c45",
+      "size": 1705824,
       "required": true
     },
     "mods/youkaisfeasts-0.5.0.jar": {
@@ -288,8 +468,11 @@
   },
   "requiredPaths": [
     "config/rtckaupdater-common.toml",
-    "mods/BeansBackpacks-forge-1.20.1-2.0.2.jar",
+    "mods/Bunker-1.20.1-1.0.jar",
     "mods/CameraOverhaul-v2.1.1-forge+mc[1.20-1.20.5].jar",
+    "mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
+    "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+    "mods/ScalingMobs-2.4.4.jar",
     "mods/Stellar View-1.20.1-0.5.2-Forge.jar",
     "mods/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
     "mods/YungsExtras-1.20-Forge-4.0.3.jar",
@@ -300,13 +483,24 @@
     "mods/corpse-forge-1.20.1-1.0.23.jar",
     "mods/deeperdarker-forge-1.20.1-1.3.3.jar",
     "mods/elixirum-forge-1.20.1-0.12.0.jar",
+    "mods/emi-1.1.24+1.20.1+forge.jar",
+    "mods/emi_enchanting-0.1.2+1.20.1+forge.jar",
+    "mods/emi_loot-0.7.9+1.20.1+forge.jar",
     "mods/etched-3.0.4.jar",
+    "mods/ethecore-0.1.0.jar",
+    "mods/etheria-0.4.1.jar",
     "mods/fragmentum-forge-1.20.1-1.3.0.jar",
     "mods/immersive_gateways-forge-0.0.6+1.20.1.jar",
     "mods/immersive_paintings-0.6.13+1.20.1-forge.jar",
+    "mods/jeed-1.20-2.2.5.jar",
+    "mods/modular_backpacks-0.1.9.jar",
     "mods/obscure_tooltips-forge-1.20.1-3.10.0.jar",
+    "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+    "mods/roaring-beta-0.3.jar",
     "mods/rtckaupdater-1.0-SNAPSHOT.jar",
     "mods/scythe1.1-forge-1.20.1.jar",
+    "mods/visual_keybinder-1.20.1 - 0.1.12.jar",
+    "mods/weaversparadise-1.5.2a.jar",
     "mods/youkaisfeasts-0.5.0.jar"
   ]
 }
