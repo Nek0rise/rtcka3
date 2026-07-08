@@ -1,21 +1,8 @@
 {
   "schema": 3,
-  "version": "3.0.2",
-  "generatedAt": "2026-07-08T15:23:54.407509Z",
+  "version": "3.0.3",
+  "generatedAt": "2026-07-08T16:54:13.304162Z",
   "files": [
-    {
-      "path": "config/rtckaupdater-common.toml",
-      "action": "update",
-      "required": true,
-      "sha256": "c3fd28baf361777d8d0694f9ab516a017d7193bbfb1c05fe838de36d1b0542af",
-      "size": 592,
-      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/config/rtckaupdater-common.toml"
-    },
-    {
-      "path": "mods/BeansBackpacks-forge-1.20.1-2.0.2.jar",
-      "action": "delete",
-      "required": true
-    },
     {
       "path": "mods/Bunker-1.20.1-1.0.jar",
       "action": "add",
@@ -191,6 +178,14 @@
       "sha256": "be2e501ddc44ec9e899c8a76f0dc1c302fe786e5aca4a517c564228ee8db532e",
       "size": 2733846,
       "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/fragmentum-forge-1.20.1-1.3.0.jar"
+    },
+    {
+      "path": "mods/hexal-forge-1.20.1-0.3.1.jar",
+      "action": "add",
+      "required": true,
+      "sha256": "56b3de8aae74987475c5d4c4eea6abc84e48377d4e442bdf0e16945031ea4c19",
+      "size": 1590569,
+      "downloadUrl": "https://raw.githubusercontent.com/Nek0rise/rtcka3/main/mods/hexal-forge-1.20.1-0.3.1.jar"
     },
     {
       "path": "mods/immersive_gateways-forge-0.0.6+1.20.1.jar",
@@ -405,6 +400,11 @@
       "size": 2733846,
       "required": true
     },
+    "mods/hexal-forge-1.20.1-0.3.1.jar": {
+      "sha256": "56b3de8aae74987475c5d4c4eea6abc84e48377d4e442bdf0e16945031ea4c19",
+      "size": 1590569,
+      "required": true
+    },
     "mods/immersive_gateways-forge-0.0.6+1.20.1.jar": {
       "sha256": "b64ff6b31df2bbba1caf7e6cd29bd84d117e8dfc2fda5c296b611f0d159b63ac",
       "size": 506264,
@@ -490,6 +490,7 @@
     "mods/ethecore-0.1.0.jar",
     "mods/etheria-0.4.1.jar",
     "mods/fragmentum-forge-1.20.1-1.3.0.jar",
+    "mods/hexal-forge-1.20.1-0.3.1.jar",
     "mods/immersive_gateways-forge-0.0.6+1.20.1.jar",
     "mods/immersive_paintings-0.6.13+1.20.1-forge.jar",
     "mods/jeed-1.20-2.2.5.jar",
